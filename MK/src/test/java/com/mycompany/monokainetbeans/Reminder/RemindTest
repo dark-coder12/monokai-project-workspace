@@ -1,0 +1,64 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/UnitTests/JUnit4TestClass.java to edit this template
+ */
+package com.mycompany.monokainetbeans.Reminder;
+
+import org.junit.After;
+import org.junit.AfterClass;
+import org.junit.Before;
+import org.junit.BeforeClass;
+import org.junit.Test;
+import static org.junit.Assert.*;
+
+/**
+ *
+ * @author Mr Rabbani
+ */
+public class RemindTest {
+
+    private static Remind remind;
+
+    public RemindTest() {
+
+    }
+
+    @BeforeClass
+    public static void setUpClass() {
+        remind = new Remind();
+    }
+
+    @AfterClass
+    public static void tearDownClass() {
+        remind = null;
+    }
+
+    @Before
+    public void setUp() {
+    }
+
+    @After
+    public void tearDown() {
+    }
+
+    /**
+     * Test of connectDB method, of class Remind.
+     */
+    @Test
+    public void testConnectDB() {
+
+        boolean expectedResult = true;
+        boolean result = remind.connectDB();
+        assertEquals(expectedResult, result);
+    }
+
+    /**
+     * Test of givealert method, of class Remind.
+     */
+    @Test
+    public void testGiveAlert() {
+
+        assertTrue(remind.giveAlert());
+    }
+
+}
