@@ -5,6 +5,19 @@ Abstract
 
 The proposed system shall be a newly developed desktop-based product that fits appropriately into the domain of project workspaces. The name put forth for the system is Monokai. Monokai will be a multi-purpose workspace environment catering for an audience of software developers. Productivity, enhancing code quality, setting a clutter-free space, organizing tasks, code editing, setting reminders or even analyzing one’s progress analytics are the currently offered features that will make Monokai stand out as a desktop application. Additionally, Agile Methodologies shall be supported by Kanban boards. As far as the user scope is concerned, it will be a single-user application, as it is going to run on desktops. Monokai is a perfect opportunity to amalgamate integral tools that are often scattered on different websites but never found all in one and that too on a desktop environment. 
 
+Demo Images
+
+![1](https://user-images.githubusercontent.com/82564549/214557088-82c74908-d129-41f9-9f77-7e70d311de1b.png)
+![2](https://user-images.githubusercontent.com/82564549/214557091-b3b79090-34f6-4887-aa34-bbe198b31e87.png)
+![3](https://user-images.githubusercontent.com/82564549/214557092-651f7595-c23c-4108-a687-d491efe1ef36.png)
+![4](https://user-images.githubusercontent.com/82564549/214557098-96517747-2343-4fa4-aa1f-12de575c1168.png)
+![5](https://user-images.githubusercontent.com/82564549/214557100-e9e9bbb4-b55f-445b-9ad3-aafb1a79a0fb.png)
+![7](https://user-images.githubusercontent.com/82564549/214557104-f53302dc-e50a-4727-8e8c-5982a906d3f0.png)
+![8](https://user-images.githubusercontent.com/82564549/214557107-33c6adb6-8614-4c36-a747-22b9e2631935.png)
+![10](https://user-images.githubusercontent.com/82564549/214557070-576b016a-fcaf-410b-8e16-bb9e4149fa6a.png)
+![11](https://user-images.githubusercontent.com/82564549/214557154-b19eece4-abb7-4896-bbeb-c291157a4c80.png)
+
+
 Motivation
 
 As software engineer students we are aware that project management for any system can be a big hassle. Most people are unable to keep a track of the deadlines, requirements, and tasks that are completed or in progress. These small hurdles can end up creating big problems for the developers hence we thought of making Monokai, an efficient project management workspace. A compact place where you can not only edit the code in style but also keep track of your progress. Moreover, it has a potential to be explored and in the following increments can be integrated with more features to facilitate the user. We plan to add a stress management feature like calm and a health tracking system once the application is received well in the market for the current features.
